@@ -1,0 +1,5 @@
+{
+  "name": "Worms 3D Web Prototype",
+  "description": "A browser-based prototype of a classic artillery game using React, Three.js, and Tailwind CSS. Features destructible terrain, turn-based gameplay, and projectile physics.",
+  "requestFramePermissions": []
+}
